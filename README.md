@@ -70,6 +70,7 @@ git clone https://github.com/your-username/papollo-hospitals-dashboard.git
 - Drill down into specific metrics for detailed insights on bed occupancy, feedback, or billing.
 
 ### 🌟 Dashboard Preview
+![Papollo Hospitals Lead Flow Dashboard](https://github.com/JanviDhonde/Powerbi-Papollo-Healthcare-Dashboard/blob/main/Papollo%20Hospitals%20Lead%20Flow%20Dashboard.jpg)  
 
 ### 🌟 Why This Project Matters
 This dashboard enables **Papollo Hospitals** to:
